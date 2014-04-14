@@ -1,3 +1,7 @@
+**Amends:** 
+
+* Removed IE8 support as it causes false fails.
+
 #matchMedia() polyfill
 
 ## test whether a CSS media type or media query applies
